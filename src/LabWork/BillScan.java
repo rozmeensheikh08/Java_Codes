@@ -37,16 +37,6 @@ public class BillScan {
 
         System.out.println("Welcome to Codeez Medical Shop..!!!");
 
-//        System.out.println(" Peracetamol Tab " + a + " Strip = " + pera);
-//        System.out.println(" Pan D tab " + b + " strip = " + pan);
-//        System.out.println(" Vitamin D tab " + c + " strip = " + vit);
-//        System.out.println(" Disprin " + d + " strip = " + disprin);
-//        System.out.println(" Dolo " + e + " strip = " + dolo);
-//        System.out.println(" Given discount on purchase = " + discount + "%");
-//        System.out.println(" Total amount = " + total);
-//        System.out.println(" Final amount = " + finalAmount);
-
-
         System.out.println(" \nPeracetamol Tab " + a + " Strip = " + pera +
                 " \nPan D tab " + b + " strip = " + pan +
                         " \nVitamin D tab " + c + " strip = " + vit +
